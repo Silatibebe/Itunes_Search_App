@@ -1,0 +1,12 @@
+.Header {
+  display: flex;
+  flex-direction: column;
+  background: #999;
+  color: white;
+}
+.Header_Title {
+  align-self: center;
+}
+.Link_Search {
+  color: white;
+}
